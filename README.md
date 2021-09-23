@@ -18,7 +18,12 @@ Here are some ideas to get you started:
     <img src="https://mir-s3-cdn-cf.behance.net/user/276/6d43cc497893367.5f0aad315fdd4.jpg" width="180">
 </p>
 <h2 align="center"> Hello there! I am Shubham Kumar Shaw👋 </h2>
-<h3 align="center"> A passionate and hardworking individual, interested in tech, with an aim to change the world! </h3>
+<h3 align="center">Proficient in Python, NumPy, Pandas,etc.
+Good knowledge of exploratory data analysis and missing values treatment.
+Learned and Applied machine learning & Coding in python.
+Conceptual understanding of Linear Regression, Logistic Regression, Time-series Models, Classification Techniques, etc.
+Working knowledge of ML (Random Forest, SVM, Boosting and Bagging techniques) and Clustering algorithms.
+Data Visualisation using Tableau.</h3>
 
 
 
