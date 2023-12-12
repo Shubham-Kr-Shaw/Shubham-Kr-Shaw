@@ -38,7 +38,7 @@ Data Visualisation using Tableau.</h3>
 - :question: Ask question on  [![Quora](https://img.shields.io/badge/-Quora-red?style=plastic&logo=Quora)](https://www.quora.com/profile/Shubham-Kumar-Shaw-3)
 - :art: See my Graphic Design's Portfolio at [![Behance](https://img.shields.io/badge/-Behance-blue?style=plastic&logo=Behance)](https://www.behance.net/shubhamshaw)
 - 🌱 Currently learning: ![Data_Science](https://img.shields.io/badge/-Data_Science-royalblue?style=plastic)  ![ML](https://img.shields.io/badge/-ML-blue?style=plastic)
-- :star: Worked at: ![Curl Tech](http://img.shields.io/badge/-CurlTech-purple?style=plastic&link=https://curl.tech/)  ![Technoboot](http://img.shields.io/badge/-Technoboot-yellow?style=plastic&link=https://technoboot.in/) ![Gigaforce](http://img.shields.io/badge/-Technoboot-Blue?style=plastic&link=https://gigaforce.io/)
+- :star: Worked at: ![Curl Tech](http://img.shields.io/badge/-CurlTech-purple?style=plastic&link=https://curl.tech/)  ![Technoboot](http://img.shields.io/badge/-Technoboot-yellow?style=plastic&link=https://technoboot.in/) ![Gigaforce](http://img.shields.io/badge/-Gigaforce-Blue?style=plastic&link=https://gigaforce.io/)
 
 ---
 
