@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <img src="https://mir-s3-cdn-cf.behance.net/user/276/6d43cc497893367.5f0aad315fdd4.jpg" width="180">
 </p>
 <h2 align="center"> Hello there! I am Shubham Kumar Shaw👋 </h2>
-<h3 align="center">Proficient in Python, NumPy, Pandas,etc.
+<h3 align="center"> An experienced Data scientist have 3+ years of handeling 
 Good knowledge of exploratory data analysis and missing values treatment.
 Learned and Applied machine learning & Coding in python.
 Conceptual understanding of Linear Regression, Logistic Regression, Time-series Models, Classification Techniques, etc.
@@ -38,7 +38,7 @@ Data Visualisation using Tableau.</h3>
 - :question: Ask question on  [![Quora](https://img.shields.io/badge/-Quora-red?style=plastic&logo=Quora)](https://www.quora.com/profile/Shubham-Kumar-Shaw-3)
 - :art: See my Graphic Design's Portfolio at [![Behance](https://img.shields.io/badge/-Behance-blue?style=plastic&logo=Behance)](https://www.behance.net/shubhamshaw)
 - 🌱 Currently learning: ![Data_Science](https://img.shields.io/badge/-Data_Science-royalblue?style=plastic)  ![ML](https://img.shields.io/badge/-ML-blue?style=plastic)
-- :star: Worked at: ![Curl Tech](http://img.shields.io/badge/-CurlTech-purple?style=plastic&link=https://curl.tech/)  ![Technoboot](http://img.shields.io/badge/-Technoboot-yellow?style=plastic&link=https://technoboot.in/)
+- :star: Worked at: ![Curl Tech](http://img.shields.io/badge/-CurlTech-purple?style=plastic&link=https://curl.tech/)  ![Technoboot](http://img.shields.io/badge/-Technoboot-yellow?style=plastic&link=https://technoboot.in/) ![Gigaforce](http://img.shields.io/badge/-Technoboot-Blue?style=plastic&link=https://gigaforce.io/)
 
 ---
 
