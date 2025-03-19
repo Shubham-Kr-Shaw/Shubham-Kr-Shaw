@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-    <img src="[https://mir-s3-cdn-cf.behance.net/user/276/6d43cc497893367.5f0aad315fdd4.jpg](https://media.licdn.com/dms/image/v2/D5603AQEfM-2tY_jdUg/profile-displayphoto-shrink_800_800/B56ZUI_QmJHsAc-/0/1739612558997?e=1747872000&v=beta&t=lbt5LYSKdjMxNioECIhqWJEhvhCcRgcMkrjb0wzkwlQ)" width="180">
+    <img src="https://github.com/Shubham-Kr-Shaw/Shubham-Kr-Shaw/blob/main/1739612558997.jpg" width="180">
 </p>
 <h2 align="center"> Hello there! I am Shubham Kumar Shaw👋 </h2>
 <h4 align="left"> A seasoned Data Scientist with over three years of adept proficiency in handling data, demonstrating a profound understanding of exploratory data analysis and adeptly addressing missing values. Proficient in the application of machine learning techniques and coding in Python, showcasing expertise in Linear Regression, Logistic Regression, Time-series Models, and various Classification Techniques. Possesses a working knowledge of Machine Learning algorithms, including Random Forest, SVM, Boosting, and Bagging techniques, as well as proficiency in Clustering algorithms. Additionally, skilled in Data Visualization utilizing Tableau.
