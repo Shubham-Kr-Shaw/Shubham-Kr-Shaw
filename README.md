@@ -1,4 +1,3 @@
-
 <!--
 ### Hi there 👋
 
@@ -18,25 +17,21 @@ Here are some ideas to get you started:
     <img src="https://github.com/Shubham-Kr-Shaw/Shubham-Kr-Shaw/blob/main/1739612558997.jpg" width="180">
 </p>
 <h2 align="center"> Hello there! I am Shubham Kumar Shaw👋 </h2>
-<h4 align="left"> A seasoned Data Scientist with over three years of adept proficiency in handling data, demonstrating a profound understanding of exploratory data analysis and adeptly addressing missing values. Proficient in the application of machine learning techniques and coding in Python, showcasing expertise in Linear Regression, Logistic Regression, Time-series Models, and various Classification Techniques. Possesses a working knowledge of Machine Learning algorithms, including Random Forest, SVM, Boosting, and Bagging techniques, as well as proficiency in Clustering algorithms. Additionally, skilled in Data Visualization utilizing Tableau.
+<h4 align="left"> A seasoned Data Scientist with over four years of experience in dynamic startup environments, specializing in AI/ML software development in Conversational AI, Fintech, and Insurtech. Proficient in AI, NLP, Large Language Models, and Data Analytics, with a robust ability to leverage cutting-edge technology and research to deliver AI-driven solutions.
 
-At Gigaforce I am working on intelligent End-to-end automation of the Subrogation Process which is Improving loss ratios in Property and casualty insurance built on decades of claims experience integrated and implemented with state-of-the-art Data science techniques.
+Currently, I'm a Senior Data Scientist at Relanto - AI First Lab in Bangalore, India, where I've developed a LLM based RAG chatbot, engineered a robust QA Retrieval agent, and built a comprehensive chatbot evaluation platform, among other projects. My work at previous companies, including Gigaforce Inc and Curl Analytics, has focused on developing innovative AI solutions for the subrogation domain and improving NER entity identification, respectively.
 
-As a Data Scientist at Curl Analytics, I have worked on creating a robust submodule capable of accurately identifying NER entities for different document types. Enhanced module performance significantly by optimizing existing code, resulting in ~33% reduction in runtime & ~25% increment in accuracy. Improved the existing pre-processing, data wrangling, and augmentation module. Did several NER-based experiments for ﬁnding the best ﬁt for the entity recognition part of the Product.
-Proposed and implemented several new ideas such as using Argilla which is an open-source data curation platform using LLMs and skweak for deﬁning the labeling functions to automatically label the documents, Using TriggerNER which increased the performance over Traditional NER, etc. I have applied my skills in Python, NumPy, Pandas, ML, and LLM to create and test various models and algorithms for this project.
+I hold a Bachelor of Technology in Computer Science from Orissa Engineering College and have multiple certifications in Digital Marketing and Data Basics. My passion for exploring new technologies and my background in leadership, teamwork, and effective communication drive my ongoing contributions to the field of Data Science.
 
-I have a Bachelor of Technology in Computer Science from Orissa Engineering College, where I learned and applied various analytical techniques, such as Linear Regression, Logistic Regression, Time-series Models, Classification Techniques, etc. I also have multiple certifications from Google and MongoDB in Digital Marketing and Data Basics. I am passionate about exploring new possibilities and learning new technologies in the field of Data Science. 
-
-I have also co-founded and directed a company called TECHNOBOOT PVT LTD, where I gained experience in digital marketing, graphic designing, web development, and finance. I am skilled in design, Marketing, Public Speaking, Management, UI/UX and Data Science.
+Co-founder of TECHNOBOOT PVT LTD, I have also gained significant experience in digital marketing, graphic designing, web development, and finance.
 </h4>
 ---
-
 
 ### Experience 📈
 
 - :star: Working at: ![Gigaforce INC](http://img.shields.io/badge/-Gigaforce-green?style=plastic&link=https://gigaforce.io/) 
 
-- 🔭 Have played around with:  ![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=python) ![Numpy](http://img.shields.io/badge/-numpy-purple?style=plastic&logo=numpy&logoColor=white) ![Pandas](http://img.shields.io/badge/-Pandas-orange?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit_learn-red?style=plastic&logo=scikit-learn&logoColor=white)  ![Pytorch](https://img.shields.io/badge/-Pytorch?style=plastic&logo=Pytorch&logoColor=blue) ![NLP](https://img.shields.io/badge/-NLP-yellow?style=plastic&amp&logo=NLP&logoColor=white) ![Transformer](https://img.shields.io/badge/-Transformer-E34F26?style=plastic&logo=Transformer&logoColor=white) ![NER](https://img.shields.io/badge/-NER-1572B6?style=plastic&logo=NER) ![LLM](https://img.shields.io/badge/-LLM-1572B6?style=plastic&logo=LLM) 
+- 🔭 Have played around with:  ![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=python) ![Numpy](http://img.shields.io/badge/-numpy-purple?style=plastic&logo=numpy&logoColor=white) ![Pandas](http://img.shields.io/badge/-Pandas-orange?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit_learn-red?style=plastic&logo=scikit-learn&logoColor=white)  ![Pytorch](https://img.shields.io/badge/-Pytorch?style=plastic&logo=Pytorch&logoColor=blue) ![NLP](https://img.shields.io/badge/-NLP-yellow?style=plastic&amp&logo=NLP&logoColor=white) ![Transformer](https://img.shields.io/badge/-Transformer-E34F26?style=plastic&logo=Transformer&logoColor=white) ![NER](https://img.shields.io/badge/-NER-1572B6?style=plastic&logo=NER)
 
 - 🔧 Using the following tools: ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-violet?style=plastic&logo=visual-studio) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?style=plastic&logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-orange?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-purple?style=plastic&logo=github&logoColor=white)![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=plastic&logo=Jupyter&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-green?style=plastic&logo=Linux&logoColor=white)![ChatGPT](https://img.shields.io/badge/-ChatGPT-blue?style=plastic&logo=ChatGPT&logoColor=white)
 
