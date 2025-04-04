@@ -41,9 +41,9 @@ Co-founder of TECHNOBOOT PVT LTD, I have also gained significant experience in d
 
 - :art: See my Graphic Design's Portfolio at [![Behance](https://img.shields.io/badge/-Behance-blue?style=plastic&logo=Behance)](https://www.behance.net/shubhamshaw)
 
-- 🌱 Currently learning: ![NLP](https://img.shields.io/badge/-Data_Science-royalblue?style=plastic)  ![LLM](https://img.shields.io/badge/-ML-blue?style=plastic)
+- 🌱 Currently working on: ![NLP](https://img.shields.io/badge/-Data_Science-royalblue?style=plastic)  ![LLM](https://img.shields.io/badge/-ML-blue?style=plastic)
 
-- :star: Worked at: ![Technoboot](http://img.shields.io/badge/-Technoboot-yellow?style=plastic&link=https://technoboot.in/) ![CRMNext](http://img.shields.io/badge/-CRMNext-green?style=plastic&link=https://www.crmnext.com/) ![Curl Tech](http://img.shields.io/badge/-CurlTech-purple?style=plastic&link=https://curl.tech/) ![Gigaforce](http://img.shields.io/badge/-Gigaforce-Blue?style=plastic&link=https://gigaforce.io/)
+- :star: Worked at: ![Technoboot](http://img.shields.io/badge/-Technoboot-yellow?style=plastic&link=https://technoboot.in/) ![CRMNext](http://img.shields.io/badge/-CRMNext-green?style=plastic&link=https://www.crmnext.com/) ![Curl Tech](http://img.shields.io/badge/-CurlTech-purple?style=plastic&link=https://curl.tech/) ![Gigaforce](http://img.shields.io/badge/-Gigaforce-Blue?style=plastic&link=https://gigaforce.io/)![Relanto Global](http://img.shields.io/badge/-Relanto-RED?style=plastic&link=https://gigaforce.io/)
 
 ---
 
